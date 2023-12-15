@@ -4,7 +4,7 @@
   },
 
   "scripts": {
-    "test" : "tsc && node \"Advent 11 part 2.mjs\""
+    "test" : "tsc && node \"Day 1/Day 1-a.mjs\""
   },
 
   "type": "module"
