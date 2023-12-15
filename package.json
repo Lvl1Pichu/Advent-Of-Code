@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  },
+
+  "scripts": {
+    "test" : "tsc && node \"Advent 11 part 2.mjs\""
+  },
+
+  "type": "module"
+  
+}
